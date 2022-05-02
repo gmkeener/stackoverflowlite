@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "genopets-5a359",
+  "private_key_id": "4925a5717ccb32c9ae5de2ad041131fb82ec31c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDffInn8xbJk/aL\nhF5o5gocUIZxKEOHNymzTSgUtv31BF7hsXRfkOEtqDp5M6IrZHK0XFmnzkqzm+5L\nBMUgIxjTIl7o+dKxpwysfWicP/0Lm9MeTwuEq71Nm9e5K55ucsRVx/3Uk2IK5R/u\nXf3fDfAItbgYrV+6DWlFNgDu+lqRaTVPd6WOKHs5h/SqHXmPbLGo3oColl9QZNMk\nv2eUMNeMHwKfgbJ+kxxvZ8bysWMhAOCdbQx78oY3JsRneqAieZKRxdfOGoUzp/IW\nj+LboqXe6kRhuihLxQxXQoiWOUgRr+d1QYZ6/BtEbFtCYHTHe3jHPg3WWWdSJPZc\nAJMgZoO/AgMBAAECggEANAfwq3njAkdajRziRhXYoML2qf2vyxlCsiXygPAhrBu6\nY11HNMCsTE7wXitxRBz8v5UIopLavXo+PmT76AGD1BQaeK9BKG81+iqwYkBbj4pV\n2qaYjejWB+2Sid/n4NsDbt1C8Wzm1JaHmp1zb6z1B3IXTFeBA/X/Xke2a+0JjPS8\nPkSuRepQsTJquPAe1nUeR8HXbLQSn394gmA+sa+MHdKay6FUeQ1QE7pa8KJP2BNh\nzEJfWVxWxL/kbulmQLieGR+brVusSXBT1hdGf7rexbZLWSHS+9greMabJdY1XNhf\naAqMm4nnEqxr07V+TZaaRAgloH1Kx7vUarBsHjrwEQKBgQDvcB0k0oLXooWQih5B\nGTeHwmcC32AG3EVFx0Ipes/X+4Qcig0sbW1BLUWt/icIfAigzsgKw8Er2c6dqc2w\nINHeL3F3INqnPMFRxoJWHIUV69RCaqOPzd84cNKagxrOXW6JZv9rkvOT2D5q7nHE\n2XYQ+ecsoyYobs68u4M5P5XjFQKBgQDu8fYxw+zviSHNEOHuBkPZUTT2lDxL1/wd\n5OjFqs6pxbZe8v2qgKibHXL05jl5xy0rYKUDZtudZD7uSTRzi2wPwwsccNv57oBk\nisqHOfmmFjwkrADiBNdgYkqvFRN7f5wzIWLPvTUDo0mDeC83LTEy35ZF5DGL6nDD\n+GSKHvoQgwKBgFOEu+W4OEOXQRel1d/HOAN24A+0cv5xnwgz9PQbDpy78t0xml7A\n3Lc7X27NlDf1a90Lw+NdXOg61UNRk5m4GPxzeBShtSNYoeYwZA49bH61ABkasWrb\n2N0LHasfyB3roT70Wmvfmm8bosoR2kVbxT8urGB5mDnKTPqwPZmegF3xAoGBAOib\nxdaGbAZ30d7mm3pywOQyyMNuZRBUT0vuxqd+8zaUkUf3dvffzcNLNNixsqwZOKCs\nsZcRL6QVramcvCHrTSQ+9HcYaxzwkC7Qaf6gcqa7qIruouFkYyKiLSAp/VBRVwbz\nblTbVVuYPv1sJ1KofOeQf6LEVXNmo6YzDfTj2P3vAoGAeT2/IZw7s/yZhOIo+jgU\n7lEIZup5bUlNd4elWmLNt491gGoxtK6DuS1LZ5wTxyzo2nLptb6u20tbyH9Z8jeM\n58PZjZGQ368vMmnD7dx/SurtfdRWNFC82wJ3n41znAV4nbCKwKQ2AoAvFwNcRow5\nIacHyC2kZpIS5ZiDYA9Pl0g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-app-distribution-admi@genopets-5a359.iam.gserviceaccount.com",
+  "client_id": "111280887420152128655",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-app-distribution-admi%40genopets-5a359.iam.gserviceaccount.com"
+}

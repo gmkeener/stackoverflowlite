@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669128792170",
+    "project_id": "stackoverflowlite-5920d",
+    "storage_bucket": "stackoverflowlite-5920d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669128792170:android:bf2dc8a797555078a01213",
+        "android_client_info": {
+          "package_name": "com.stackoverflowlite.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669128792170-rgka2t2nj356mvbj7thpl5rnkb65og08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5YeGNI20wqubW1-7nF5eJpf4v1XqX7Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669128792170-rgka2t2nj356mvbj7thpl5rnkb65og08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
